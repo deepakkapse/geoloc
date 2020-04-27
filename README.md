@@ -1,2 +1,2 @@
-# geoloc
+# geoloc app
 geolocation
