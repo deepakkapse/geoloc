@@ -1,4 +1,4 @@
 # geoloc app
-this app is created using cordova html and java script
+this app is developed using cordova html and java script
 geolocation
 
